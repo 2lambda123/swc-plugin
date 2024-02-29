@@ -3,12 +3,12 @@
 ## Tech Stack
 2lambda123/swc-plugin is built on the following main stack:
 
-- [Rust](http://www.rust-lang.org/) – Languages
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Rust](http://www.rust-lang.org/) – Languages
 - [TypeScript](http://www.typescriptlang.org) – Languages
-- [Babel](http://babeljs.io/) – JavaScript Compilers
 - [Effector](https://effector.now.sh) – State Management Library
 - [Serde](https://serde.rs) – Serialization Frameworks
+- [Babel](http://babeljs.io/) – JavaScript Compilers
 - [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - [Vite](https://vitejs.dev/) – JS Build Tools / JS Task Runners
 
@@ -20,12 +20,12 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 2lambda123/swc-plugin is built on the following main stack:
 
-- <img width='25' height='25' src='https://img.stackshare.io/service/1070/v7txhrjp9pdqrkdtxxp0.png' alt='Rust'/> [Rust](http://www.rust-lang.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1070/v7txhrjp9pdqrkdtxxp0.png' alt='Rust'/> [Rust](http://www.rust-lang.org/) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
 - <img width='25' height='25' src='https://img.stackshare.io/service/11025/xajEXm5c_400x400.png' alt='Effector'/> [Effector](https://effector.now.sh) – State Management Library
 - <img width='25' height='25' src='https://img.stackshare.io/service/11028/no-img-open-source.png' alt='Serde'/> [Serde](https://serde.rs) – Serialization Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/2739/-1wfGjNw.png' alt='Babel'/> [Babel](http://babeljs.io/) – JavaScript Compilers
 - <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png' alt='Vite'/> [Vite](https://vitejs.dev/) – JS Build Tools / JS Task Runners
 
@@ -38,7 +38,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [2lambda123/swc-plugin](https://github.com/2lambda123/swc-plugin)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|12<br/>Tools used|01/09/24 <br/>Report generated|
+|12<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -145,7 +145,7 @@ Full tech stack [here](/techstack.md)
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
 |[@babel/core](https://www.npmjs.com/@babel/core)|v7.21.8|05/17/23|Kirill Mironov |MIT|N/A|
-|[vite](https://www.npmjs.com/vite)|v4.3.7|05/17/23|Kirill Mironov |N/A|[CVE-2023-34092](https://github.com/advisories/GHSA-353f-5xf4-qw67) (High)|
+|[vite](https://www.npmjs.com/vite)|v4.3.7|05/17/23|Kirill Mironov |N/A|[CVE-2024-23331](https://github.com/advisories/GHSA-c24v-8rfc-w8vw) (High)<br/>[CVE-2023-34092](https://github.com/advisories/GHSA-353f-5xf4-qw67) (High)|
 
 <br/>
 <div align='center'>
